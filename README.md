@@ -1,25 +1,10 @@
-# Syntax highlighting for max65 (VSCode extension)
+# Syntax highlighting for max65
 
-This extension for VSCode enables syntax highlighting for [max65](https://github.com/0xC0DE6502/max65-releases) compatible source files (*.max65).
-
-## Installation
-
-* Download the VSIX package from [GitHub](https://github.com/0xC0DE6502/max65-syntax-highlighting-releases)
-* Open VSCode
-* Type `Ctrl+Shift+P` and execute the command `Extensions: Install from VSIX...`
-* Select the downloaded VSIX package
-* Wait for the installation to complete
-* Done!
-
-## Release Notes
-
-### 1.0.0
-
-Initial release (2023-03-07)
+This VSCode extension enables syntax highlighting for [max65](https://github.com/0xC0DE6502/max65-releases) compatible 6502 assembly source files.
 
 ## MIT license
 
-Copyright (c) 2023 0xC0DE ([@0xC0DE6502](https://twitter.com/0xC0DE6502))
+Copyright (C) 2023-2025 0xC0DE (0xC0DE6502@gmail.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
